@@ -7,17 +7,7 @@
  * Note: on most Arduinos, there is already an LED on the board
  that's attached to pin 13, so no hardware is needed for this example.
  
- created 2005
- by David A. Mellis
- modified 8 Feb 2010
- by Paul Stoffregen
- modified 11 Nov 2013
- by Scott Fitzgerald
- 
- 
- This example code is in the public domain.
- 
- http://www.arduino.cc/en/Tutorial/BlinkWithoutDelay
+
  */
  
 // constants won't change. Used here to set a pin number :
